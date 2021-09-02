@@ -21,7 +21,7 @@ export default function Page() {
 
       <Hero title="wowowowowow" />
 
-	<img src="willacool.jpeg" alt="socool">
+	<img src="https://scontent-hou1-1.xx.fbcdn.net/v/t1.6435-9/228207125_6586753861350740_7581371882247501771_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=5OnS0ftkumcAX_1m9Ls&_nc_ht=scontent-hou1-1.xx&oh=f6f7a38554851b65c6179d5a26dca0a9&oe=6155E710" alt="socool">
 
       <main className="content content-single">
         <div className="wrap">
