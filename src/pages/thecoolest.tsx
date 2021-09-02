@@ -9,7 +9,7 @@ export default function Page() {
   const generalSettings = useQuery().generalSettings;
 
   return (
-    <>
+    
       <Header
         title={generalSettings.title}
         description={generalSettings.description}
